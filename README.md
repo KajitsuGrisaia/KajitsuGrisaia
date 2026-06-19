@@ -1,4 +1,4 @@
-<div align="center"> ## 💫 Welcome to my Github Profile:
+## 💫 Welcome to my Github Profile:
 Software Engineer who enjoys coding independently.<br><br>My passion includes videogames, guitar, creating web applications and configuring Linux.<br><br>Fluent in English, Spanish and learning German along the way.<br><br>Love working with electronics and gaming devices.
 
 
