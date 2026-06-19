@@ -14,4 +14,3 @@ Software Engineer who enjoys coding independently.<br><br>My passion includes vi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KajitsuGrisaia&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
