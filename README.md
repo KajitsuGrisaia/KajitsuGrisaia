@@ -17,4 +17,4 @@ S.E who enjoys coding while listening to music (although who doesn't?)<br>Huge M
 ![](https://github-contributor-stats.vercel.app/api?username=KajitsuGrisaia&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-![](https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=282a36&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS"/>
