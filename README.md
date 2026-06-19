@@ -1,8 +1,8 @@
-💫 Welcome to my Github Profile:
+# 💫 Welcome to my Github Profile:
 Software Engineer who enjoys coding independently.<br><br>My passion includes videogames, guitar, creating web applications and configuring Linux.<br><br>Fluent in English, Spanish and learning German along the way.<br><br>Love working with electronics and gaming devices.
 
 
-🌐 Socials:
+## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/KajitsuGrisaia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grisaiakajitsu98@gmail.com) 
 
 ## 💻 Tech Stack:
