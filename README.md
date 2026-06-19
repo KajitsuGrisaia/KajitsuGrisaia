@@ -1,4 +1,8 @@
-# 💫 About Me:
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
+
+# 💫 A little of me:
 S.E who enjoys coding while listening to music (although who doesn't?)<br>Huge Megadeth fan 🎸🤘<br><br>Infatuated with Linux and its community, love ricing arch (I use arch btw)
 <br>Fluen in English/Spanish
 
@@ -15,6 +19,3 @@ S.E who enjoys coding while listening to music (although who doesn't?)<br>Huge M
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KajitsuGrisaia&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-<img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS"/>
