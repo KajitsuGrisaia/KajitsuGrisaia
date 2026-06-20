@@ -50,5 +50,21 @@ Fluent in English / Spanish
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KajitsuGrisaia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KajitsuGrisaia&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+[](https://github-contributor-stats.vercel.app/api?username=KajitsuGrisaia&limit=5&theme=dracula&combine_all_yearly_contributions=true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
