@@ -4,16 +4,16 @@
 
 <div align="center">
 
-# ✧｡٩(ˊᗜˋ )و✧*｡ A little of me
+<h1>✧｡٩(ˊᗜˋ )و✧*｡ A little of me</h1>
 
-⊹₊˚‧︵‿︵‿₊୨ᰔ୧₊‿︵‿︵‧˚₊⊹
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 <br>
 
 S.E who enjoys coding while listening to music (although who doesn't?) 🎧  
 <br>
 Huge Megadeth fan 🎸🤘  
-<br>
+<br><br>
 Infatuated with Linux and its community, love ricing Arch (I use arch btw)
 <br>
 Fluent in English / Spanish
