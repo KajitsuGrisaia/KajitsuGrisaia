@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  
-# <span style="color: #bd93f9; font-family: 'Courier New', monospace">✧｡٩(ˊᗜˋ )و✧*｡ A little of me</span>
+
+<span style="color: #bd93f9; font-family: 'Courier New', monospace">✧｡٩(ˊᗜˋ )و✧*｡ A little of me</span>
 
 <br>
 
