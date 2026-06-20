@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<h1 style="border-bottom: none; margin-bottom: 0;">
+<div style="font-size: 2em; font-weight: bold; margin-bottom: 0; display: block;">
 
 ✧｡٩(ˊᗜˋ )و✧*｡ A little of me
 
-</h1>
+</div>
 
 <div style="font-size: 24px; margin-top: 5px; margin-bottom: 15px;">
 
