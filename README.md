@@ -4,9 +4,14 @@
 
 <div align="center">
 
-<div style="font-size: 32px; font-weight: bold;">
+<div style="font-size: 2.5em; font-weight: 700;">
 
-✧｡٩(ˊᗜˋ )و✧*｡ A little of me <br>
+✧｡٩(ˊᗜˋ )و✧*｡ A little of me
+
+</div>
+
+<div style="font-size: 1.5em; margin-top: 10px;">
+
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 </div>
