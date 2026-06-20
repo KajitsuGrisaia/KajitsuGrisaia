@@ -6,11 +6,10 @@
 
 <div style="font-size: 32px; font-weight: bold;">
 
-✧｡٩(ˊᗜˋ )و✧*｡ A little of me
+✧｡٩(ˊᗜˋ )و✧*｡ A little of me <br>
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 </div>
-
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 <br>
 
