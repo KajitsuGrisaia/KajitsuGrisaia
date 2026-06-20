@@ -4,9 +4,15 @@
 
 <div align="center">
 
-<h1>✧｡٩(ˊᗜˋ )و✧*｡ A little of me</h1>
+<div style="font-size: 32px; font-weight: bold;">
 
-<h1>⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹</h1>
+✧｡٩(ˊᗜˋ )و✧*｡ A little of me
+
+</div>
+
+<br>
+
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 <br>
 
