@@ -50,6 +50,6 @@ Fluent in English / Spanish
 </div>
 
 ### 🔝 Top Contributed Repo
-[![](https://komarev.com/ghpvc/?username=KajitsuGrisaia&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=KajitsuGrisaia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
