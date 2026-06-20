@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<div style="font-size: 30px; font-weight: bold; margin-bottom: 0; display: block;">
+<div style="font-size: 50px; font-weight: bold; margin-bottom: 0; display: block;">
 
 ✧｡٩(ˊᗜˋ )و✧*｡ A little of me
 
