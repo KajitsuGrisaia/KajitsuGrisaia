@@ -6,6 +6,7 @@
 S.E who enjoys coding while listening to music (although who doesn't?)<br>Huge Megadeth fan 🎸🤘<br><br>Infatuated with Linux and its community, love ricing arch (I use arch btw)
 <br>Fluen in English/Spanish
 
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 # (˶ᵔ ᵕ ᵔ˶) ‹3 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kajitsugrisaia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grisaiakajitsu98@gmail.com) 
