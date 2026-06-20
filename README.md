@@ -7,7 +7,7 @@ S.E who enjoys coding while listening to music (although who doesn't?)<br>Huge M
 <br>Fluen in English/Spanish
 
 
-## (˶ᵔ ᵕ ᵔ˶) ‹3 Socials:
+# (˶ᵔ ᵕ ᵔ˶) ‹3 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kajitsugrisaia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grisaiakajitsu98@gmail.com) 
 
 # (ノಠൠಠ)ノ彡┻━┻ Tech Stack:
