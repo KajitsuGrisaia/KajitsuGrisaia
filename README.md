@@ -4,7 +4,7 @@
 
 <div align="center">
 
-#✧｡٩(ˊᗜˋ )و✧*｡ A little of me
+# ✧｡٩(ˊᗜˋ )و✧*｡ A little of me
 
 <br>
 S.E who enjoys coding while listening to music (although who doesn't?) 🎧  
