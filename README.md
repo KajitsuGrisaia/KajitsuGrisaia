@@ -4,9 +4,7 @@
 
 <div align="center">
 
-<span style="color: #bd93f9; font-family: 'Courier New', monospace">✧｡٩(ˊᗜˋ )و✧*｡ A little of me</span>
-
-<br>
+#✧｡٩(ˊᗜˋ )و✧*｡ A little of me
 
 <br>
 S.E who enjoys coding while listening to music (although who doesn't?) 🎧  
