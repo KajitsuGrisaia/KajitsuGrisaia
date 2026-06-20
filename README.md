@@ -1,13 +1,8 @@
 <img width="1280" height="300" alt="kajitsugrisaiabanner" src="https://github.com/user-attachments/assets/760dad41-d05b-44ff-9a6b-eb91ac7903b4" />
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
-
-<div align="center">
-
 # ✧｡٩(ˊᗜˋ )و✧*｡ A little of me
 
+<div align="center">
 
 <br>
 S.E who enjoys coding while listening to music (although who doesn't?) 🎧  
@@ -19,6 +14,7 @@ Infatuated with Linux and its community, love ricing Arch (I use arch btw)
 Fluent in English / Spanish
 
 </div>
+
 <div align="center">
   
 # (˶ᵔ ᵕ ᵔ˶) ‹3 Socials:
@@ -48,5 +44,9 @@ Fluent in English / Spanish
 ![](https://github-contributor-stats.vercel.app/api?username=KajitsuGrisaia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
 
 
