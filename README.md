@@ -8,6 +8,7 @@
 
 <div style="font-size: 18px; margin-top: 5px; margin-bottom: 15px;">⋆⁺₊⋆ ━━━━⊱༒︎ • ༒︎⊰━━━━ ⋆⁺₊⋆</div>
 
+<br>
 S.E who enjoys coding while listening to music (although who doesn't?) 🎧  
 <br>
 Huge Megadeth fan 🎸🤘  
