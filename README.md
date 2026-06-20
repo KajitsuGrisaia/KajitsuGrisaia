@@ -2,11 +2,23 @@
   <img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
-# ✧｡٩(ˊᗜˋ )و✧*｡ A little of me
-S.E who enjoys coding while listening to music (although who doesn't?)<br>Huge Megadeth fan 🎸🤘<br><br>Infatuated with Linux and its community, love ricing arch (I use arch btw)
-<br>Fluen in English/Spanish
+<div align="center">
 
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+# ✧｡٩(ˊᗜˋ )و✧*｡ A little of me
+
+⊹₊˚‧︵‿︵‿₊୨ᰔ୧₊‿︵‿︵‧˚₊⊹
+
+<br>
+
+S.E who enjoys coding while listening to music (although who doesn't?) 🎧  
+<br>
+Huge Megadeth fan 🎸🤘  
+<br><br>
+Infatuated with Linux and its community, love ricing Arch (I use arch btw)
+<br>
+Fluent in English / Spanish
+
+</div>
 
 # (˶ᵔ ᵕ ᵔ˶) ‹3 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kajitsugrisaia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grisaiakajitsu98@gmail.com) 
