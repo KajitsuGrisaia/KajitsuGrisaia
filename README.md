@@ -4,19 +4,17 @@
 
 <div align="center">
 
-<h1 style="border-bottom: none;">
+<h1 style="border-bottom: none; margin-bottom: 0;">
 
 ✧｡٩(ˊᗜˋ )و✧*｡ A little of me
 
 </h1>
 
-<div style="font-size: 24px;">
+<div style="font-size: 24px; margin-top: 5px; margin-bottom: 15px;">
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 </div>
-
-<br>
 
 S.E who enjoys coding while listening to music (although who doesn't?) 🎧  
 <br>
@@ -53,18 +51,5 @@ Fluent in English / Spanish
 
 ### 🔝 Top Contributed Repo
 [](https://github-contributor-stats.vercel.app/api?username=KajitsuGrisaia&limit=5&theme=dracula&combine_all_yearly_contributions=true
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
