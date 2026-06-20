@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<div style="font-size: 2.5em; font-weight: 700;">
+<h1 style="border-bottom: none;">
 
 ✧｡٩(ˊᗜˋ )و✧*｡ A little of me
 
-</div>
+</h1>
 
-<div style="font-size: 1.5em; margin-top: 10px;">
+<div style="font-size: 24px;">
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
