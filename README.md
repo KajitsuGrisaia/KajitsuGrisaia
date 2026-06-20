@@ -4,17 +4,7 @@
 
 <div align="center">
 
-<div style="font-size: 2em; font-weight: bold; margin-bottom: 0; display: block;">
-
-✧｡٩(ˊᗜˋ )و✧*｡ A little of me
-
-</div>
-
-<div style="font-size: 24px; margin-top: 5px; margin-bottom: 15px;">
-
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-
-</div>
+## ✧｡٩(ˊᗜˋ )و✧*｡ A little of me
 
 S.E who enjoys coding while listening to music (although who doesn't?) 🎧  
 <br>
