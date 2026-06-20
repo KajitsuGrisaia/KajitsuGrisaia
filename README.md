@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-
-<sup><h1>✧｡٩(ˊᗜˋ )و✧*｡ A little of me</h1></sup>
+  
+<a href="#" style="font-size: 40px; font-weight: bold; text-decoration: none; color: inherit; pointer-events: none;">✧｡٩(ˊᗜˋ )و✧*｡ A little of me</a>
 
 <div style="font-size: 18px; margin-top: 5px; margin-bottom: 15px;">⋆⁺₊⋆ ━━━━⊱༒︎ • ༒︎⊰━━━━ ⋆⁺₊⋆</div>
 
@@ -18,7 +18,6 @@ Infatuated with Linux and its community, love ricing Arch (I use arch btw)
 Fluent in English / Spanish
 
 </div>
-
 <div align="center">
   
 # (˶ᵔ ᵕ ᵔ˶) ‹3 Socials:
