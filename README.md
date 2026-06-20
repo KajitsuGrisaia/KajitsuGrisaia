@@ -4,9 +4,7 @@
 
 <div align="center">
   
-<a href="#" style="font-size: 40px; font-weight: bold; text-decoration: none; color: inherit; pointer-events: none;">✧｡٩(ˊᗜˋ )و✧*｡ A little of me</a>
-
-<div style="font-size: 18px; margin-top: 5px; margin-bottom: 15px;">⋆⁺₊⋆ ━━━━⊱༒︎ • ༒︎⊰━━━━ ⋆⁺₊⋆</div>
+# ✧｡٩(ˊᗜˋ )و✧*｡ A little of me
 
 <br>
 S.E who enjoys coding while listening to music (although who doesn't?) 🎧  
