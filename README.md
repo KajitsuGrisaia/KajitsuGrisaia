@@ -32,9 +32,9 @@ Fluent in English / Spanish
 <div align="center">
   
 # ( ≚ᄌ≚ )>⌐■-■ My Github Stats:
-![](https://github-readme-stats.shion.dev/api?username=KajitsuGrisaia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KajitsuGrisaia&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KajitsuGrisaia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=KajitsuGrisaia&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=KajitsuGrisaia&theme=dracula&hide_border=false&v=3)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KajitsuGrisaia&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
