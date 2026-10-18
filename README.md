@@ -39,20 +39,16 @@ Fluent in English / Spanish
 
 <div align="center">
 
-<p><b>🔝 Top Contributed Repo</b></p>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=KajitsuGrisaia&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-
-</div>
+## 🔝 Top Contributed Repo
 
 <div align="right">
   <img src="https://hits.sh/github.com/KajitsuGrisaia.svg?style=for-the-badge&color=bd93f9&label=PROFILE%20VIEWS" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake-dark.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake-dark.svg">
+</picture>
+
 </div>
