@@ -46,7 +46,7 @@ Fluent in English / Spanish
 </div>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=bd93f9&label=PROFILE%20VIEWS&query=%24.value&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DKajitsuGrisaia%26base%3D1000%26json%3Dtrue&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <div align="center">
