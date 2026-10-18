@@ -46,8 +46,13 @@ Fluent in English / Spanish
 </div>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake.svg#gh-light-mode-only)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake-dark.svg">
+  </picture>
+</div>
