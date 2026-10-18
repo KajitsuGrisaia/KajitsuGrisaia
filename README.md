@@ -50,7 +50,7 @@ Fluent in English / Spanish
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
-  <img alt="github contribution grid snake animation" src="./github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/KajitsuGrisaia/KajitsuGrisaia@output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/KajitsuGrisaia/KajitsuGrisaia@output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/KajitsuGrisaia/KajitsuGrisaia@output/github-snake.svg">
 </picture>
