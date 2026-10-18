@@ -46,7 +46,7 @@ Fluent in English / Spanish
 </div>
 
 <p align="right">
-  <img src="https://img.shields.io/badge/dynamic/json?color=bd93f9&label=PROFILE%20VIEWS&query=%24.value&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DKajitsuGrisaia%26base%3D1000%26json%3Dtrue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKajitsuGrisaia&count_bg=%23BD93F9&title_bg=%23282A36&icon=&icon_color=%23E6E6E6&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
 </p>
 
 <div align="center">
