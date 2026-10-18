@@ -44,14 +44,12 @@ Fluent in English / Spanish
 
 </div>
 
-<p align="right">
-  
-  <img src="https://hits.sh/github.com/KajitsuGrisaia.svg?style=for-the-badge&color=bd93f9&label=PROFILE%20VIEWS" alt="Profile Views" />
-  
-</p>
-
 <div align="center">
-
+  
+  <div align="right">
+    <img src="https://hits.sh/github.com/KajitsuGrisaia.svg?style=for-the-badge&color=bd93f9&label=PROFILE%20VIEWS" alt="Profile Views" />
+  </div>
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KajitsuGrisaia/KajitsuGrisaia/output/github-snake.svg">
