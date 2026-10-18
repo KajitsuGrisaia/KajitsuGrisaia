@@ -45,7 +45,9 @@ Fluent in English / Spanish
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=green)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 <div align="center">
   <picture>
