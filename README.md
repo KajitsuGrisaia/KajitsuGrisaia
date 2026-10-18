@@ -46,7 +46,9 @@ Fluent in English / Spanish
 </div>
 
 <p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKajitsuGrisaia&count_bg=%23BD93F9&title_bg=%234C566A&icon=&icon_color=%23E6E6E6&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
 </p>
 
 <div align="center">
