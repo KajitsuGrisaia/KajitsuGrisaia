@@ -46,9 +46,7 @@ Fluent in English / Spanish
 </div>
 
 <p align="right">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
+  <img src="https://profile-counter.glitch.me/KajitsuGrisaia/count.svg" alt="Profile Views" />
 </p>
 
 <div align="center">
