@@ -45,9 +45,7 @@ Fluent in English / Spanish
 
 </div>
 
-<p align="right">
-  <img src="https://profile-counter.glitch.me/KajitsuGrisaia/count.svg" alt="Profile Views" />
-</p>
+![](https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=green)
 
 <div align="center">
   <picture>
