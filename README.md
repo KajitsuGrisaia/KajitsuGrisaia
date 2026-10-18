@@ -46,7 +46,7 @@ Fluent in English / Spanish
 
 <p align="right">
   
-  <img src="https://komarev.com/ghpvc/?username=KajitsuGrisaia&color=bd93f9&style=for-the-badge&label=PROFILE%20VIEWS&v=5" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/KajitsuGrisaia.svg?style=for-the-badge&color=bd93f9&label=PROFILE%20VIEWS" alt="Profile Views" />
   
 </p>
 
